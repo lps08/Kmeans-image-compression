@@ -1,4 +1,4 @@
 # Kmeans-image-compression
-Using kmeans algorith to compress image
+Simple image compressing using kmeans algorith. The encoder and decoder process can be seen in the image below:
 
-1
+![flow](/files/methodology.png)
